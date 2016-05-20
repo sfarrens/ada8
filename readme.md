@@ -19,6 +19,6 @@
 ## <font color='blue'>Contents</font>
 
 1. [Introduction to Inverse Problems](inverse_problems.ipynb)
-1. Introduction to Sparsity
-1. Introduction to Wavelets
-1. Blind Source Separation
+1. [Introduction to Sparsity](sparsity.ipynb)
+1. [Introduction to Wavelets](wavelets.ipynb)
+1. [Blind Source Separation](BlindSourceSeparation_Tutorial_2016_v1.slides.html)
